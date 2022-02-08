@@ -1,0 +1,31 @@
+span {
+    color: red;
+}
+p span {
+    color: blue;
+}
+.text {
+    color: rosybrown;
+}
+p.about {
+    color: green;
+}
+p.blok {
+    color: violet;
+}
+ul.date li {
+    color: rgba(184, 184, 0, 0.692);
+}
+ul.list li,
+ol.sub_list li {
+    color: saddlebrown;
+}
+mark {
+    color: red;
+}
+mark.color_grey {
+    color: gray;
+}
+.text_a > p {
+    color: rgb(255, 196, 0);
+}
